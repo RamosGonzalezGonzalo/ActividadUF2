@@ -47,7 +47,7 @@ public class Start {
 		int salida;
 		
 		
-		
+		System.out.println("Bienvenido al programa");
 		System.out.println("Introduzca un número");
 		numUnoUno = entradaDatos.nextInt();
 		System.out.println("Introduzca otro número");
